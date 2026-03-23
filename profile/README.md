@@ -1,4 +1,4 @@
-<img src="./logo-black.png" align="left" width="200"/>
+<img src="./logo-green.png" align="left" width="200"/>
 
 ### `Midori Browser`
 
