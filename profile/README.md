@@ -1,6 +1,6 @@
 <img src="./logo-green.png" align="left" width="200"/>
 
-### `Midori Browser`
+### Midori Browser
 
 Midori Web Browser, a lightweight, fast and secure browser, that is our mission and our values, your privacy, your web experience comes first.
 
